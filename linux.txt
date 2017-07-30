@@ -1,0 +1,35 @@
+linux 简介
+Minix  一个大学教授为了给学生上课，买了一个unix系统，自己改成Minix给学生使用。
+
+Minix是开源的
+
+linus torvalds 把minix作为模板，重新写了linux
+1991年发布
+
+企鹅标志， linus torvalds 小时候被企鹅吓到
+
+linux = linus write unix
+
+linux 内核版本
+	linux的核心版本
+	www.kernel.org
+
+
+linux 发行版本
+	不同发行版本内核基本一致，只是加入了各个厂商自己的特色
+
+
+redhat在服务器领域认可
+服务器不需要装图形界面 
+
+
+ubuntu的优势在图形界面
+
+redhat部分服务要钱
+
+centos 完全免费
+
+fedora 是redhat公司开发的个人版，具有完整功能，
+
+centos被redhat收购
+
