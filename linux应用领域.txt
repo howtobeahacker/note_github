@@ -1,0 +1,11 @@
+linux应用领域
+
+1.基于linux的企业服务器
+	www.netcraft.com
+
+
+2.嵌入式应用
+	ssh=linux和linux之间进行远程安全管理的软件
+	安卓系统就是在linux上搭建的
+	苹果的系统是在unix上搭建的
+	机顶盒 智能电视 电影制作平台
